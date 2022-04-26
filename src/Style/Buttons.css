@@ -1,0 +1,21 @@
+.main{
+    display: flex;
+    padding-top: 100px;
+    align-items: center;
+}
+.first{
+    margin-right: 100px;
+}
+.second{
+    margin-right: 100px;
+}
+.third{
+    margin-right: 100px;
+}
+.fourth{
+    margin-right: 100px;
+}
+.main input {
+    width: 45px;
+    
+}

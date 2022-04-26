@@ -1,0 +1,9 @@
+.total{
+    display: flex;
+    padding-left: 1210px;
+    position: absolute;
+}
+.textBox{
+    margin-left: 50px;
+    width: 150px !important;
+}
